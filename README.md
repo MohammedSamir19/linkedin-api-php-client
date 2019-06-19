@@ -14,7 +14,7 @@ You will need at least PHP 5.6. PHP 5.5 was deprecated more than a year ago! Thi
 Use [composer](https://getcomposer.org/) package manager to install the lastest version of the package:
 
 ```bash
-composer require zoonman/linkedin-api-php-client
+composer require mohammed-samir/linkedin-api-php-client
 ```
 
 Or add this package as dependency to `composer.json`.
